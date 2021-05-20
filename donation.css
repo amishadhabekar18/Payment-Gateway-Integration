@@ -1,0 +1,122 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+
+
+
+
+
+
+body
+{
+	background-color: #fff67d ;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+ 
+
+
+
+input[type=text] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+
+
+
+
+.social-widget
+{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+h1 {
+    
+        font-size: 50px;
+        font-family: sans-serif;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        margin-top: 100px;
+        margin-bottom: 20px;
+        color: Grey;
+    }
+
+
+li
+{
+   display:inline-block;
+}
+
+.social-button
+{
+    width: 300px;
+    padding: 10px;
+    letter-spacing: 1px;
+    margin: 10px;
+    
+}
+
+.paypal
+{
+    background-color: #3B5998;
+}
+
+.paytm
+{
+    background-color: #55acee;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.social-text
+{
+    width: 160px;
+    padding-left: 10px;
+}
+
+
+.card
+{
+    background-color: #e4405f;
+}
+
+
+
+.gpay
+{
+    background-color: #25D366;
+}
+
+.phonepe
+{
+    background-color: #660066;
+}
+
+.social-button:hover
+{
+    background-color: black;
+    transition: 0.5s
+}
