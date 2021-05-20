@@ -1,6 +1,7 @@
 # Payment-Gateway-Integration
 
 # Developer - Amisha Dhabekar
+# Intern at The Sparks Foundation
 
 # Task
 > Payment Gateway Integration - https://amishadhabekar18.github.io/Payment-Gateway-Integration/
